@@ -44,6 +44,7 @@ Ele é usado para:
 ## Verbo To Be em Frases (Exemplos)
 
 ### Estados e sentimentos
+---
 
 I am tired.
 Eu estou cansado.
@@ -62,3 +63,4 @@ Nós estamos aqui.
 
 She is Canadian.
 Ela é canadense.
+---
