@@ -44,7 +44,7 @@ Ele é usado para:
 ## Verbo To Be em Frases (Exemplos)
 
 ### Estados e sentimentos
-```text
+
 I am tired.
 Eu estou cansado.
 
