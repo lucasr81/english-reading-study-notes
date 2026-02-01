@@ -1,0 +1,64 @@
+# Verbo To Be
+
+O **verbo *to be*** equivale a **dois verbos em português ao mesmo tempo**:  
+**ser** e **estar**.
+
+Ele é usado para:
+- Identidade
+- Estado
+- Profissão
+- Nacionalidade
+- Localização
+- Características
+
+---
+
+## Formas do Verbo To Be no Presente
+
+| Sujeito | Verbo | Tradução |
+|------|------|------|
+| I | am | eu sou / eu estou |
+| You | are | você é / você está |
+| He | is | ele é / ele está |
+| She | is | ela é / ela está |
+| It | is | ele/ela é ou está (não humanos) |
+| We | are | nós somos / nós estamos |
+| You | are | vocês são / vocês estão |
+| They | are | eles/elas são ou estão |
+
+---
+
+## Observações Importantes
+
+- **I** sempre usa **am**
+- **He / She / It** sempre usam **is**
+- **You / We / They** sempre usam **are**
+- **It** é usado para:
+  - Objetos  
+  - Animais  
+  - Coisas  
+  - Situações não humanas  
+
+---
+
+## Verbo To Be em Frases (Exemplos)
+
+### Estados e sentimentos
+```text
+I am tired.
+Eu estou cansado.
+
+You are happy.
+Você está feliz.
+
+I am married.
+Eu sou casado / eu estou casado.
+
+You are in school.
+Você está na escola.
+
+We are here.
+Nós estamos aqui.
+
+She is Canadian.
+Ela é canadense.
