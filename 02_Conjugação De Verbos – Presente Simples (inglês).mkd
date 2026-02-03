@@ -1,0 +1,190 @@
+# Conjugação de Verbos no Presente Simples (Simple Present)
+
+---
+
+## 1. Regra principal
+
+Em **inglês**, o verbo **só é conjugado na 3ª pessoa do singular**.
+
+<span style="color:#c0392b"><strong>3ª pessoa do singular:</strong></span>
+
+* He
+* She
+* It
+
+Todos os outros pronomes **não conjugam o verbo**.
+
+---
+
+## 2. Pronomes pessoais
+
+* I
+* You
+* <span style="color:#c0392b"><strong>He</strong></span>
+* <span style="color:#c0392b"><strong>She</strong></span>
+* <span style="color:#c0392b"><strong>It</strong></span>
+* We
+* You
+* They
+
+---
+
+## 3. Regras de conjugação
+
+### Regra 1
+
+<span style="color:#2980b9"><strong>O, S, X, SH, CH → + ES</strong></span>
+
+Quando o verbo termina em **O, S, X, SH ou CH**, acrescenta-se **ES** na 3ª pessoa do singular.
+
+---
+
+### Exemplo: TO GO (ir)
+
+* I go
+* You go
+* <span style="color:#c0392b"><strong>He goes</strong></span>
+* <span style="color:#c0392b"><strong>She goes</strong></span>
+* <span style="color:#c0392b"><strong>It goes</strong></span>
+* We go
+* You go
+* They go
+
+---
+
+### Exemplo: TO KISS (beijar)
+
+* I kiss
+* You kiss
+* <span style="color:#c0392b"><strong>He kisses</strong></span>
+* <span style="color:#c0392b"><strong>She kisses</strong></span>
+* <span style="color:#c0392b"><strong>It kisses</strong></span>
+* We kiss
+* You kiss
+* They kiss
+
+---
+
+### Exemplo: TO FIX (consertar)
+
+* I fix
+* You fix
+* <span style="color:#c0392b"><strong>He fixes</strong></span>
+* <span style="color:#c0392b"><strong>She fixes</strong></span>
+* <span style="color:#c0392b"><strong>It fixes</strong></span>
+* We fix
+* You fix
+* They fix
+
+---
+
+### Exemplo: TO WASH (lavar)
+
+* I wash
+* You wash
+* <span style="color:#c0392b"><strong>He washes</strong></span>
+* <span style="color:#c0392b"><strong>She washes</strong></span>
+* <span style="color:#c0392b"><strong>It washes</strong></span>
+* We wash
+* You wash
+* They wash
+
+---
+
+### Exemplo: TO TEACH (ensinar)
+
+* I teach
+* You teach
+* <span style="color:#c0392b"><strong>He teaches</strong></span>
+* <span style="color:#c0392b"><strong>She teaches</strong></span>
+* <span style="color:#c0392b"><strong>It teaches</strong></span>
+* We teach
+* You teach
+* They teach
+
+---
+
+## 4. Regra 2
+
+<span style="color:#27ae60"><strong>Vogal + Y → + S</strong></span>
+
+Quando o verbo termina em **vogal + Y**, acrescenta-se apenas **S**.
+
+### Exemplo: TO SAY (dizer)
+
+* I say
+* You say
+* <span style="color:#c0392b"><strong>He says</strong></span>
+* <span style="color:#c0392b"><strong>She says</strong></span>
+* <span style="color:#c0392b"><strong>It says</strong></span>
+* We say
+* You say
+* They say
+
+---
+
+## 5. Regra 3
+
+<span style="color:#8e44ad"><strong>Consoante + Y → remove Y + IES</strong></span>
+
+Quando o verbo termina em **consoante + Y**, remove-se o **Y** e acrescenta-se **IES**.
+
+### Exemplo: TO FLY (voar)
+
+* I fly
+* You fly
+* <span style="color:#c0392b"><strong>He flies</strong></span>
+* <span style="color:#c0392b"><strong>She flies</strong></span>
+* <span style="color:#c0392b"><strong>It flies</strong></span>
+* We fly
+* You fly
+* They fly
+
+---
+
+## 6. Regra 4
+
+<span style="color:#16a085"><strong>Restante → + S</strong></span>
+
+Para todos os outros verbos, acrescenta-se **S** na 3ª pessoa do singular.
+
+### Exemplo: TO SPEAK (falar)
+
+* I speak
+* You speak
+* <span style="color:#c0392b"><strong>He speaks</strong></span>
+* <span style="color:#c0392b"><strong>She speaks</strong></span>
+* <span style="color:#c0392b"><strong>It speaks</strong></span>
+* We speak
+* You speak
+* They speak
+
+---
+
+## 7. Regra especial
+
+<span style="color:#e74c3c"><strong>Exceção: HAVE → HAS</strong></span>
+
+O verbo **to have** é irregular na 3ª pessoa do singular.
+
+### Exemplo: TO HAVE (ter)
+
+* I have
+* You have
+* <span style="color:#c0392b"><strong>He has</strong></span>
+* <span style="color:#c0392b"><strong>She has</strong></span>
+* <span style="color:#c0392b"><strong>It has</strong></span>
+* We have
+* You have
+* They have
+
+---
+
+## 8. Resumo geral
+
+* Apenas <span style="color:#c0392b"><strong>He / She / It</strong></span> conjugam o verbo
+* O, S, X, SH, CH → + ES
+* Vogal + Y → + S
+* Consoante + Y → IES
+* Restante → + S
+* Have → Has
